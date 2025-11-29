@@ -7,7 +7,7 @@ include_in_header: false
 # DesignPatterns – Privacy Policy
 Last updated: Nov 29, 2025
 
-Ilie-Daniel Gogozan built the **DesignPatterns** app as a Free app. This SERVICE is provided by Ilie-Daniel Gogozan at no cost and is intended for use “as is.”
+Daniel Gogozan built the **DesignPatterns** app as a Free app. This SERVICE is provided by Daniel Gogozan at no cost and is intended for use “as is.”
 
 This Privacy Policy informs visitors of my policies regarding the collection, use, and disclosure of information for anyone who uses my Service.
 
