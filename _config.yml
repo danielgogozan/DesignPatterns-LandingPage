@@ -10,10 +10,10 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file).
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : DesignPatterns                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_description                           : Crush interviews. Write cleaner code. Learn design patterns.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -24,7 +24,7 @@ your_name                                 : Daniel Gogozan
 your_link                                 : https://www.linkedin.com/in/daniel-gogozan-48a667209/
 your_city                                 : Cluj-Napoca
 email_address                             : gogozandaniel@gmail.com
-linkedin_username                         : daniel-gogozan
+linkedin_username                         : daniel-gogozan-48a667209
 linkedin_company                          :
 facebook_username                         :
 instagram_username                        :
@@ -36,27 +36,28 @@ mastodon_link                             :
 
 
 # Feature List                            Edit, add or remove features to be presented.
-features                                  :
+features:
 
   - title: Flashcard-Based Learning
-    description: Quickly learn each design pattern using concise, structured flashcards for efficient memorization
+    description: Quickly learn each design pattern using structured flashcards for efficient memorization
     fontawesome_icon_name: clone
 
-  - title: Real-World Analogies
-    description: Every pattern includes easy-to-understand real-world examples inspired by GoF to reinforce comprehension
-    fontawesome_icon_name: lightbulb
-
   - title: UML Diagrams
-    description: Visualize every pattern through clear, accurate UML class and sequence diagrams
+    description: Visualize every pattern through clear, accurate UML class
     fontawesome_icon_name: project-diagram
 
-  - title: Quizzes
-    description: Test your knowledge with tailored quizzes to reinforce learning and track improvement
-    fontawesome_icon_name: question-circle
+  - title: Quick Recall
+    description: Instantly review any design pattern on the go
+    fontawesome_icon_name: rocket
+
+  - title: Interview Prep
+    description: Practice through quizzes and reinforce key design patterns to ace technical interviews
+    fontawesome_icon_name: user-graduate
 
   - title: Earn Badges
-    description: Unlock achievement badges as you progress through the catalog of design patterns
+    description: Unlock achievement badges as you progress through design patterns chapters
     fontawesome_icon_name: award
+
 
 # Theme Settings
 topbar_color                              : "#000000"
@@ -80,7 +81,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#ffffff"
 feature_text_color                        : "#C7D2D2"
 
-feature_icons_foreground_color            : "#30F956"
+feature_icons_foreground_color            : "#EA603E"
 feature_icons_background_color            : "#061C45"
 
 social_icons_foreground_color             : "#EA603E"
