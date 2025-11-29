@@ -4,57 +4,121 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
+# DesignPatterns – Privacy Policy
+Last updated: Nov 29, 2025
 
-# Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
+Ilie-Daniel Gogozan built the **DesignPatterns** app as a Free app. This SERVICE is provided by Ilie-Daniel Gogozan at no cost and is intended for use “as is.”
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This Privacy Policy informs visitors of my policies regarding the collection, use, and disclosure of information for anyone who uses my Service.
 
-<br>
+By using the Service, you agree to the practices described in this Privacy Policy. I do **not** collect or store any personal information. Any data collected by the app is processed **only** by the third-party tools listed below, and solely for app performance, analytics, and crash diagnostics.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions unless otherwise defined here.
+
+---
 
 ## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+The DesignPatterns app does **not** collect any personally identifiable information from users.  
+We do **not** request or store:
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+- Name  
+- Email  
+- Address  
+- Phone number  
+- Any personal identifiers  
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+All analytics and crash information is collected **anonymously** by third-party services to help improve the app’s performance and reliability.
 
-<br>
+### Third-party service providers used by the app
+| Third Party | Purpose |
+|-------------|---------|
+| **Google Analytics for Firebase** | Helps us understand app usage patterns and improve user experience. |
+| **Firebase Crashlytics** | Detects crashes and errors so we can fix them in future updates. |
+| **RevenueCat** | Manages in-app purchases and subscription status. No personal data is stored by me. |
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+These services may collect device information such as model, OS version, crash logs, and general usage metrics. None of this data identifies you personally.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+---
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+## 2.0 Log Data
+If the app encounters an error, diagnostic data may be collected automatically by third-party tools. This data may include:
 
-<br>
+- Device model  
+- Operating system version  
+- App configuration at the moment of the crash  
+- Time and date of the error  
+- Anonymous usage logs  
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+This information is used strictly to improve the stability and quality of the Service.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+---
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## 3.0 Service Providers
+I may employ third-party companies and individuals for the following purposes:
 
-<br>
+- To facilitate the Service  
+- To provide the Service on my behalf  
+- To perform Service-related functions  
+- To assist in analyzing how the Service is used  
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+These third parties have access only to the anonymous analytics and crash data needed to perform their tasks. They are obligated **not** to share or use the information for any other purpose.
 
-<br>
+---
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 4.0 Security
+I value your trust in using the app, and I strive to use commercially acceptable means to protect all information.  
+However, please remember that no method of internet transmission or electronic storage is 100% secure. While I take strong precautions, absolute security cannot be guaranteed.
+
+---
+
+## 5.0 In-App Purchases and Subscriptions
+The DesignPatterns app offers optional in-app purchases and subscriptions to unlock premium features. Purchases are handled entirely through:
+
+- **Apple’s App Store** (payment processing)  
+- **RevenueCat** (subscription status management)
+
+### What Data We Collect
+I do **not** collect or store any personal data.  
+RevenueCat processes:
+
+- Anonymous subscription status (active, expired, renewal date)  
+- Anonymous purchase history (for restoring purchases)
+
+**Credit card details are never collected or stored by me.**  
+All financial data is handled securely by Apple.
+
+### How We Use This Data
+- Grant access to premium features  
+- Restore purchases on new devices  
+- Improve app functionality and stability  
+
+### Managing and Canceling Subscriptions
+Subscriptions automatically renew unless canceled. You may manage or cancel your subscription anytime in your Apple ID settings:
+
+**Settings → Apple ID → Subscriptions**
+
+### RevenueCat Privacy Policy
+https://www.revenuecat.com/privacy/
+
+---
+
+## 6.0 Links to Other Sites
+This Service may contain links to external websites. If you tap a third-party link, you will be taken to that site. These external sites are not operated by me.
+
+I strongly recommend reviewing their Privacy Policies.  
+I have no control over — and assume no responsibility for — the content, privacy practices, or policies of these third-party websites or services.
+
+---
+
+## 7.0 Changes to This Privacy Policy
+I may update this Privacy Policy periodically. You are advised to review this page occasionally for any changes.
+
+Changes will be posted on this page.  
+**This policy is effective as of Feb 05, 2025.**
+
+---
+
+## 8.0 Contact Us
+If you have questions or suggestions regarding this Privacy Policy, please contact me at:
+
+📧 **gogozandaniel@gmail.com**
